@@ -20,6 +20,11 @@ python movie2face.py
 ```
 for extracting face images and then exclude outlier images manually.
 
+```
+python make_tfrecords.py
+```
+for making TFRecords files.
+
 ## Train
 
 Using Supervisor class, 
