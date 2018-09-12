@@ -38,6 +38,11 @@ Using MonitoredTrainingSession class,
 python train_byMT.py
 ```
 
+Using RNN, 
+```
+python train_byRNN.py
+```
+
 ## Test
 
 Using Supervisor class, 
@@ -48,4 +53,9 @@ python test.py
 Using MonitoredTrainingSession class, 
 ```
 python test_byMT.py
+```
+
+Using RNN, 
+```
+python test_byRNN.py
 ```
