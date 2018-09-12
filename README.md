@@ -1,7 +1,6 @@
 # VTuber_recognition
 This repository contains python codes for classifing Virtual YouTuber images.
 https://user-images.githubusercontent.com/40881014/45407938-d12c4a80-b6a5-11e8-9090-7d0a9f67ef1f.png
-![raw md](https://github.com/d-ogawa/VTuber_recognition/photo/result1.jpg)
 
 ## Environment
 
